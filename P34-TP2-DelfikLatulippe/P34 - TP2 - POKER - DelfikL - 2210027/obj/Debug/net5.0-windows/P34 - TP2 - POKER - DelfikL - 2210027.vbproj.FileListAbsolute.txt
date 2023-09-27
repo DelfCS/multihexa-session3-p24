@@ -1,0 +1,38 @@
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.exe
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.deps.json
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.runtimeconfig.json
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.runtimeconfig.dev.json
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.dll
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.pdb
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.vbproj.AssemblyReference.cache
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34___TP2___POKER___DelfikL___2210027.Form1.resources
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.vbproj.GenerateResource.cache
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.AssemblyInfoInputs.cache
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.AssemblyInfo.vb
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.vbproj.CoreCompileInputs.cache
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.dll
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\refint\P34 - TP2 - POKER - DelfikL - 2210027.dll
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.pdb
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.genruntimeconfig.cache
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\ref\P34 - TP2 - POKER - DelfikL - 2210027.dll
+C:\Users\i9-9900k\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34___TP2___POKER___DelfikL___2210027.Resources.resources
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.exe
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.deps.json
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.runtimeconfig.json
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.runtimeconfig.dev.json
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.dll
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\bin\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.pdb
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.vbproj.AssemblyReference.cache
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34___TP2___POKER___DelfikL___2210027.Form1.resources
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34___TP2___POKER___DelfikL___2210027.Resources.resources
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.vbproj.GenerateResource.cache
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.AssemblyInfoInputs.cache
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.AssemblyInfo.vb
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.vbproj.CoreCompileInputs.cache
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.dll
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\refint\P34 - TP2 - POKER - DelfikL - 2210027.dll
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.pdb
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\P34 - TP2 - POKER - DelfikL - 2210027.genruntimeconfig.cache
+C:\Users\Delf\Desktop\P34 - TP2 - POKER\P34 - TP2 - POKER - DelfikL - 2210027\P34 - TP2 - POKER - DelfikL - 2210027\obj\Debug\net5.0-windows\ref\P34 - TP2 - POKER - DelfikL - 2210027.dll

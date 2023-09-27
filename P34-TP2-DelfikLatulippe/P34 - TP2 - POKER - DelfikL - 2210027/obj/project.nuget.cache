@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m5v2tdJWdNSenEt+zfXI8EwqauAih/UMC6WR9m7og/n5NcunGgCkAyCw1jggy23lZWWOEyWS1I7D5cKI+y75cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Delf\\Desktop\\P34 - TP2 - POKER\\P34 - TP2 - POKER - DelfikL - 2210027\\P34 - TP2 - POKER - DelfikL - 2210027\\P34 - TP2 - POKER - DelfikL - 2210027.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Delf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Delf\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Delf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Delf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
